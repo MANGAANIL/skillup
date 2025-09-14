@@ -70,7 +70,7 @@ A clean, focused interface for students to engage with their coursework.
 `Demo Admin Login Credentials`
 
 `Username : Admin`
-`Password : Anjan1@`
+`Password : Anil1@`
 
 ---
 #### Faculty Dashboard
@@ -80,7 +80,7 @@ A clean, focused interface for students to engage with their coursework.
 `Demo Faculty Login Credentials`
 
 `Username : faculty`
-`Password : Anjan1@`
+`Password : Anil1@`
 
 ---
 #### Student Dashboard
@@ -90,11 +90,11 @@ A clean, focused interface for students to engage with their coursework.
 `Demo Student Login Credentials`
 
 `Username : B22CS101`
-`Password : Anjan1@`
+`Password : Anil1@`
 
 ---
 
-Thank you for viewing my project. Please feel free to contact me if you need any further details or clarification at anjanbudige@gmail.com
+Thank you for viewing my project. Please feel free to contact me if you need any further details or clarification at 2203a52239@sru.edu.in
 
 
 
